@@ -1,0 +1,5 @@
+su_audio_utils.egg-info
+build
+dist
+__pycache__
+.idea
